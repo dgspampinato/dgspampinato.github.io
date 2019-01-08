@@ -8,12 +8,8 @@ During my Ph.D. I investigated the problem of generating efficient code for smal
 
 <table rules="rows">
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>Doctorate (Ph.D.) in Computer Science, ETH Zurich, Switzerland</td>
+    <td align="right">2017</td>
   </tr>
 </table>
 
