@@ -29,10 +29,10 @@ During my Ph.D. I investigated the problem of generating efficient code for smal
 
 ### 2018
 <dl>
-<dt>SPIRAL: Extreme Performance Portability <a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=299"><i class="fas fa-link"></a></i></dt>
+<dt>SPIRAL: Extreme Performance Portability <a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=299"> <i class="fas fa-link"></i></a></dt>
 <dd>F. Franchetti, T. M. Low, T. Popovici, R. Veras, D. G. Spampinato, J. Johnson, M. Püschel, J. C. Hoe and J. M. F. Moura</dd>  
 <dd>Proc. of the IEEE, special issue on ``From High Level Specification to High Performance Code'', Vol. 106, No. 11</dd>
-<dt>Program Generation for Small-Scale Linear Algebra Applications<a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=293"><i class="fas fa-link"></a></i></dt>
+<dt>Program Generation for Small-Scale Linear Algebra Applications<a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=293"> <i class="fas fa-link"></i></a></dt>
 <dd>D. G. Spampinato, D. Fabregat-Traver, P. Bientinesi and M. Püschel</dd>  
 <dd>Proc. International Symposium on Code Generation and Optimization (CGO), pp. 327-339</dd>
 </dl>
