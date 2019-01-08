@@ -25,7 +25,7 @@ During my Ph.D. I investigated the problem of generating efficient code for smal
   </tr>
 </table>
 
-## Selected Publications
+## Selected Publications (or [full list](https://scholar.google.com/citations?user=arC_dPMAAAAJ&hl=en))
 
 ### 2018
 <dl>
