@@ -6,8 +6,9 @@ During my Ph.D. I investigated the problem of generating efficient code for smal
 
 ## Education
 
-:---        ---: 
-Header      Here's this
-Paragraph   And more
+|:-------------|-------------:| 
+| A | 1 |
+| B | 2 | 
+| C | 3 |
 
 ## Publications
