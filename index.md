@@ -2,7 +2,7 @@ I completed my Doctorate (Ph.D.) in computer science at ETH Zurich, and I am cur
 
 My research interests include the design of domain-specific languages for high-performance mathematical software.
 
-During my Ph.D. I investigated the problem of generating efficient code for small-scale, dense linear algebra programs. This eventual lead to the development of the [LGen and the SLinGen program generators](https://acl.inf.ethz.ch/research/LGen/).
+During my Ph.D. I investigated the problem of generating efficient code for small-scale, dense linear algebra programs. This eventual lead to the development of the [LGen and the SLinGen program generators](https://acl.inf.ethz.ch/research/LGen/). A copy of my thesis is available from the [ETH Research Collection](https://www.researchcollection.ethz.ch/handle/20.500.11850/168796).
 
 ## Education
 
@@ -29,10 +29,31 @@ During my Ph.D. I investigated the problem of generating efficient code for smal
 
 ### 2018
 <dl>
-<dt>SPIRAL: Extreme Performance Portability <a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=299"> <i class="fas fa-link"></i></a></dt>
+<dt>SPIRAL: Extreme Performance Portability <a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=299" target="_blank"> <i class="fas fa-link"></i></a></dt>
 <dd>F. Franchetti, T. M. Low, T. Popovici, R. Veras, D. G. Spampinato, J. Johnson, M. Püschel, J. C. Hoe and J. M. F. Moura</dd>  
 <dd>Proc. of the IEEE, special issue on ``From High Level Specification to High Performance Code'', Vol. 106, No. 11</dd>
-<dt>Program Generation for Small-Scale Linear Algebra Applications<a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=293"> <i class="fas fa-link"></i></a></dt>
+<dt>Program Generation for Small-Scale Linear Algebra Applications <a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=293"  target="_blank"> <i class="fas fa-link"></i></a></dt>
 <dd>D. G. Spampinato, D. Fabregat-Traver, P. Bientinesi and M. Püschel</dd>  
 <dd>Proc. International Symposium on Code Generation and Optimization (CGO), pp. 327-339</dd>
+</dl>
+
+### 2016
+<dl>
+<dt>A Basic Linear Algebra Compiler for Structured Matrices <a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=248"  target="_blank"> <i class="fas fa-link"></i></a></dt>
+<dd>D. G. Spampinato and M. Püschel</dd>  
+<dd>Proc. International Symposium on Code Generation and Optimization (CGO), pp. 117-127</dd>
+</dl>
+
+### 2015
+<dl>
+<dt>A Basic Linear Algebra Compiler for Embedded Processors <a href="https://dl.acm.org/citation.cfm?id=2757058" target="_blank"> <i class="fas fa-link"></i></a></dt>
+<dd>N. Kyrtatas, D. G. Spampinato and M. Püschel</dd>  
+<dd>Proc. Design, Automation and Test in Europe (DATE), pp. 1054-1059</dd>
+</dl>
+
+### 2014
+<dl>
+<dt>A Basic Linear Algebra Compiler <a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=173"  target="_blank"> <i class="fas fa-link"></i></a></dt>
+<dd>D. G. Spampinato and M. Püschel</dd>  
+<dd>Proc. International Symposium on Code Generation and Optimization (CGO), pp. 23-32</dd>
 </dl>
