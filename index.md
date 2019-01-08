@@ -8,19 +8,19 @@ During my Ph.D. I investigated the problem of generating efficient code for smal
 
 <table rules="rows" cellpadding="0">
   <tr>
-    <td>Doctorate (Ph.D.) in Computer Science, ETH Zurich, Switzerland</td>
+    <td>Doctorate (Ph.D.) in Computer Science<br>ETH Zurich, Switzerland<br>Advisor: Prof. Markus Püschel</td>
     <td align="right">2017</td>
   </tr>
   <tr>
-    <td>Laurea Magistrale (M.Sc.) in Computer Engineering, Politecnico di Milano, Italy</td>
+    <td>Laurea Magistrale (M.Sc.) in Computer Engineering<br>Politecnico di Milano, Italy<br>Advisor: Prof. Paolo Cremonesi</td>
     <td align="right">2009</td>
   </tr>
   <tr>
-    <td>Master i teknologi/sivilingeniør (M.Sc.) in Computer Science, Norwegian University of Science and Technology, Norway</td>
+    <td>Master i teknologi/sivilingeniør (M.Sc.) in Computer Science<br>Norwegian University of Science and Technology, Norway<br>Advisor: Prof. Anne C. Elster</td>
     <td align="right">2009</td>
   </tr>
   <tr>
-    <td>Laurea (B.Sc.) in Computer Engineering, Politecnico di Milano, Italy</td>
+    <td>Laurea (B.Sc.) in Computer Engineering<br>Politecnico di Milano, Italy</td>
     <td align="right">2006</td>
   </tr>
 </table>
