@@ -1,4 +1,4 @@
-I completed my Doctorate (Ph.D.) in computer science at ETH Zurich, and I am currently a postdoc in the [SPIRAL team](https://spiral.net) at the Electrical And Computer Engineering Department at Carnegie Mellon University. 
+I completed my Doctorate (Ph.D.) in computer science at ETH Zurich, and I am currently a postdoc in the [SPIRAL team](https://spiral.net) at the Electrical and Computer Engineering Department at Carnegie Mellon University. 
 
 My research interests include the design of domain-specific languages for high-performance mathematical software.
 
