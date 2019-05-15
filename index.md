@@ -29,12 +29,16 @@ During my Ph.D. I investigated the problem of generating efficient code for smal
 
 ### 2018
 <dl>
-<dt>SPIRAL: Extreme Performance Portability <a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=299" target="_blank"> <i class="fas fa-link"></i></a></dt>
-<dd>F. Franchetti, T. M. Low, T. Popovici, R. Veras, D. G. Spampinato, J. Johnson, M. Püschel, J. C. Hoe and J. M. F. Moura</dd>  
-<dd>In Proc. of the IEEE, special issue on ``From High Level Specification to High Performance Code'', Vol. 106, No. 11</dd>
 <dt>Program Generation for Small-Scale Linear Algebra Applications <a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=293"  target="_blank"> <i class="fas fa-link"></i></a></dt>
 <dd>D. G. Spampinato, D. Fabregat-Traver, P. Bientinesi and M. Püschel</dd>  
 <dd>In Code Generation and Optimization (CGO), pp. 327-339</dd>
+<dt>SPIRAL: Extreme Performance Portability <a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=299" target="_blank"> <i class="fas fa-link"></i></a></dt>
+<dd>F. Franchetti, T. M. Low, T. Popovici, R. Veras, D. G. Spampinato, J. Johnson, M. Püschel, J. C. Hoe and J. M. F. Moura</dd>  
+<dd>In Proc. of the IEEE, special issue on ``From High Level Specification to High Performance Code'', Vol. 106, No. 11</dd>
+<dt>Linear Algebraic Formulation of Edge-centric K-truss Algorithms with Adjacency Matrices <a href="http://spiral.ece.cmu.edu:8080/pub-spiral/abstract.jsp?id=303"  target="_blank"> <i class="fas fa-link"></i></a></dt>
+<dd>T. M. Low, D. G. Spampinato, A. Kutuluru, U. Sridhar, T. Popovici, F. Franchetti and S. McMillan</dd>  
+<dd>High Performance Extreme Computing (HPEC), pp. 1-7</dd>
+<dd><a href="https://graphchallenge.mit.edu/champions"  target="_blank"><i>IEEE/DARPA/Amazon Graph Challenge Finalists</i></a></dd>
 </dl>
 
 ### 2016
