@@ -1,8 +1,10 @@
-I completed my Doctorate (Ph.D.) in computer science at ETH Zurich, and I am currently a research scientist in the [SPIRAL team](https://spiral.net) in the Electrical and Computer Engineering Department at Carnegie Mellon University. 
+I am a principal researcher in the Computing Systems Laboratory at Huawei Zurich Research Center (ZRC) located in Zurich, Switzerland.
 
 My research interests include the design of domain-specific languages for high-performance mathematical software.
 
-During my Ph.D. I investigated the problem of generating efficient code for small-scale, dense linear algebra programs. This eventual lead to the development of the [LGen and the SLinGen program genesrators](https://acl.inf.ethz.ch/research/LGen/). A copy of my thesis is available from the [ETH Research Collection](https://www.researchcollection.ethz.ch/handle/20.500.11850/168796).
+Previous to this position, I was a research scientist in the [SPIRAL team](https://spiral.net) in the Electrical and Computer Engineering Department at Carnegie Mellon University located in Pittsburgh, PA, USA. 
+
+During my Ph.D. I investigated the problem of generating efficient code for small-scale, dense linear algebra programs. This eventual lead to the development of the [LGen and the SLinGen program generators](https://acl.inf.ethz.ch/research/LGen/). A copy of my thesis is available from the [ETH Research Collection](https://www.researchcollection.ethz.ch/handle/20.500.11850/168796).
 
 ## Education
 
