@@ -1,14 +1,16 @@
-I am a principal researcher in the Computing Systems Laboratory at Huawei Zurich Research Center (ZRC) located in Zurich, Switzerland.
+I am a principal researcher in the Computing Systems Laboratory (CSL) at the Huawei Zurich Research Center located in Zurich, Switzerland.
 
-My research interests include the design of domain-specific languages for high-performance mathematical software.
+My research interests are in the area of domain-specific languages and programming models for high-performance mathematical software. Keep an eye on new releases of [ALP](https://github.com/Algebraic-Programming/ALP) the [algebraic programming framework](https://algebraic-programming.github.io/) developed by researchers at CSL and the Huawei Paris Research Center.
 
-Previous to this position, I was a research scientist in the [SPIRAL team](https://spiral.net) in the Electrical and Computer Engineering Department at Carnegie Mellon University located in Pittsburgh, PA, USA. 
+## Short Bio
+Laurea in Computer Engineering (B.Sc., Politecnico di Milano, Italy, 2006) and double degree Laurea Magistrale and Master i teknologi/sivilingeniør in Computer Science (M.Sc., Politecnico di Milano, Italy and NTNU, Norway, 2009).
 
-During my Ph.D. I investigated the problem of generating efficient code for small-scale, dense linear algebra programs. This eventual lead to the development of the [LGen and the SLinGen program generators](https://acl.inf.ethz.ch/research/LGen/). A copy of my thesis is available from the [ETH Research Collection](https://www.researchcollection.ethz.ch/handle/20.500.11850/168796).
+Ph.D. in Computer Science (ETH Zurich, 2017) in the [Advanced Computing Laboratory](https://acl.inf.ethz.ch/) under the supervision of Prof. Markus Püschel. I investigated the problem of generating efficient code for small-scale, dense linear algebra programs developing the [LGen and the SLinGen program generators](https://acl.inf.ethz.ch/research/LGen/). A copy of my thesis is available from the [ETH Research Collection](https://www.researchcollection.ethz.ch/handle/20.500.11850/168796).
 
-## Education
+Postdoc (2017-2019) and research scientist (2019-2020) in the [SPIRAL team](https://spiral.net) in the Electrical and Computer Engineering Department at Carnegie Mellon University located in Pittsburgh, PA, USA. 
 
-<table rules="rows" cellpadding="0">
+
+<!-- <table rules="rows" cellpadding="0">
   <tr>
     <td>Doctorate (Ph.D.) in Computer Science<br>ETH Zurich, Switzerland<br>Advisor: Prof. Markus Püschel</td>
     <td align="right">2017</td>
@@ -25,7 +27,7 @@ During my Ph.D. I investigated the problem of generating efficient code for smal
     <td>Laurea (B.Sc.) in Computer Engineering<br>Politecnico di Milano, Italy</td>
     <td align="right">2006</td>
   </tr>
-</table>
+</table> -->
 
 ## Selected Publications (or [full list](https://scholar.google.com/citations?user=arC_dPMAAAAJ&hl=en))
 
