@@ -1,6 +1,6 @@
 I am a principal researcher in the Computing Systems Laboratory (CSL) at the Huawei Zurich Research Center located in Zurich, Switzerland.
 
-My research interests are in the area of domain-specific languages and programming models for high-performance mathematical software. Keep an eye on new releases of [ALP](https://github.com/Algebraic-Programming/ALP) the [algebraic programming framework](https://algebraic-programming.github.io/) developed by researchers at CSL and the Huawei Paris Research Center.
+My research interests are in the area of domain-specific languages and programming models for high-performance mathematical software. Keep an eye on new releases of [ALP](https://github.com/Algebraic-Programming/ALP), the [algebraic programming framework](https://algebraic-programming.github.io/) developed by researchers at CSL and the Huawei Paris Research Center.
 
 ## Short Bio
 Laurea in Computer Engineering (B.Sc., Politecnico di Milano, Italy, 2006) and double degree Laurea Magistrale and Master i teknologi/sivilingeniør in Computer Science (M.Sc., Politecnico di Milano, Italy and NTNU, Norway, 2009).
