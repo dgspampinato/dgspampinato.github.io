@@ -31,6 +31,13 @@ Postdoc (2017-2019) and research scientist (2019-2020) in the [SPIRAL team](http
 
 ## Selected Publications (or [full list](https://scholar.google.com/citations?user=arC_dPMAAAAJ&hl=en))
 
+### 2023
+<dl>
+<dt>Towards Structured Algebraic Programming</dt>
+<dd>D. G. Spampinato, D. Jelovina, J. Zhuang, and A. N. Yzelman</dd>  
+<dd>Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY@PLDI), to appear</dd>
+</dl>
+
 ### 2019
 <dl>
 <dt>Delta-Stepping SSSP: From Vertices and Edges to GraphBLAS Implementations</dt>
