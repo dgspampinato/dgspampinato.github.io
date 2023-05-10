@@ -7,7 +7,7 @@ Laurea in Computer Engineering (B.Sc., Politecnico di Milano, Italy, 2006) and d
 
 Ph.D. in Computer Science (ETH Zurich, 2017) in the [Advanced Computing Laboratory](https://acl.inf.ethz.ch/) under the supervision of Prof. Markus Püschel. I investigated the problem of generating efficient code for small-scale, dense linear algebra programs developing the [LGen and the SLinGen program generators](https://acl.inf.ethz.ch/research/LGen/). A copy of my thesis is available from the [ETH Research Collection](https://www.researchcollection.ethz.ch/handle/20.500.11850/168796).
 
-Postdoc (2017-2019) and research scientist (2019-2020) in the [SPIRAL team](https://spiral.net) in the Electrical and Computer Engineering Department at Carnegie Mellon University located in Pittsburgh, PA, USA. 
+Postdoc (2017-2019) and research scientist (2019-2020) in the [SPIRAL team](https://spiral.net) in the Electrical and Computer Engineering Department at Carnegie Mellon University, Pittsburgh, PA, USA. 
 
 
 <!-- <table rules="rows" cellpadding="0">
